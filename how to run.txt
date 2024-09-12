@@ -1,0 +1,7 @@
+Step-1: Install the following module
+pip install tk
+pip install tk-tools
+pip install simpleeval
+
+Step-2: Make sure that you keep all the images in the same folder in which your 'calculator.py' is located.
+Step-3: Now run the 'calculator.py' 
